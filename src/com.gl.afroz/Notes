@@ -1,0 +1,6 @@
+Application: main
+Customer: bankAccountNo, password, balance
+Banking: checkBalance, withdraw, transfer, deposit
+OTPGeneration: generateOTP
+
+https://github.com/excelinlife/IITR-2023
